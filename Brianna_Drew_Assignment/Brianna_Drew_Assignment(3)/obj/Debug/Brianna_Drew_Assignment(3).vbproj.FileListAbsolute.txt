@@ -1,0 +1,24 @@
+C:\Users\brian\Desktop\COIS 1520H\Assignment 3\Brianna_Drew_Assignment(3)\Brianna_Drew_Assignment(3)\bin\Debug\Brianna_Drew_Assignment(3).exe.config
+C:\Users\brian\Desktop\COIS 1520H\Assignment 3\Brianna_Drew_Assignment(3)\Brianna_Drew_Assignment(3)\bin\Debug\Brianna_Drew_Assignment(3).exe
+C:\Users\brian\Desktop\COIS 1520H\Assignment 3\Brianna_Drew_Assignment(3)\Brianna_Drew_Assignment(3)\bin\Debug\Brianna_Drew_Assignment(3).pdb
+C:\Users\brian\Desktop\COIS 1520H\Assignment 3\Brianna_Drew_Assignment(3)\Brianna_Drew_Assignment(3)\bin\Debug\Brianna_Drew_Assignment(3).xml
+C:\Users\brian\Desktop\COIS 1520H\Assignment 3\Brianna_Drew_Assignment(3)\Brianna_Drew_Assignment(3)\obj\Debug\Brianna_Drew_Assignment(3).vbprojResolveAssemblyReference.cache
+C:\Users\brian\Desktop\COIS 1520H\Assignment 3\Brianna_Drew_Assignment(3)\Brianna_Drew_Assignment(3)\obj\Debug\Brianna_Drew_Assignment_3_.Form1.resources
+C:\Users\brian\Desktop\COIS 1520H\Assignment 3\Brianna_Drew_Assignment(3)\Brianna_Drew_Assignment(3)\obj\Debug\Brianna_Drew_Assignment_3_.Resources.resources
+C:\Users\brian\Desktop\COIS 1520H\Assignment 3\Brianna_Drew_Assignment(3)\Brianna_Drew_Assignment(3)\obj\Debug\Brianna_Drew_Assignment(3).vbproj.GenerateResource.Cache
+C:\Users\brian\Desktop\COIS 1520H\Assignment 3\Brianna_Drew_Assignment(3)\Brianna_Drew_Assignment(3)\obj\Debug\Brianna_Drew_Assignment(3).vbproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\COIS 1520H\Assignment 3\Brianna_Drew_Assignment(3)\Brianna_Drew_Assignment(3)\obj\Debug\Brianna_Drew_Assignment(3).exe
+C:\Users\brian\Desktop\COIS 1520H\Assignment 3\Brianna_Drew_Assignment(3)\Brianna_Drew_Assignment(3)\obj\Debug\Brianna_Drew_Assignment(3).xml
+C:\Users\brian\Desktop\COIS 1520H\Assignment 3\Brianna_Drew_Assignment(3)\Brianna_Drew_Assignment(3)\obj\Debug\Brianna_Drew_Assignment(3).pdb
+C:\Users\brian\Desktop\University\Past Courses\COIS 1520H\Assignment 3\Brianna_Drew_Assignment\Brianna_Drew_Assignment(3)\bin\Debug\Brianna_Drew_Assignment(3).exe.config
+C:\Users\brian\Desktop\University\Past Courses\COIS 1520H\Assignment 3\Brianna_Drew_Assignment\Brianna_Drew_Assignment(3)\bin\Debug\Brianna_Drew_Assignment(3).exe
+C:\Users\brian\Desktop\University\Past Courses\COIS 1520H\Assignment 3\Brianna_Drew_Assignment\Brianna_Drew_Assignment(3)\bin\Debug\Brianna_Drew_Assignment(3).pdb
+C:\Users\brian\Desktop\University\Past Courses\COIS 1520H\Assignment 3\Brianna_Drew_Assignment\Brianna_Drew_Assignment(3)\bin\Debug\Brianna_Drew_Assignment(3).xml
+C:\Users\brian\Desktop\University\Past Courses\COIS 1520H\Assignment 3\Brianna_Drew_Assignment\Brianna_Drew_Assignment(3)\obj\Debug\Brianna_Drew_Assignment(3).vbprojResolveAssemblyReference.cache
+C:\Users\brian\Desktop\University\Past Courses\COIS 1520H\Assignment 3\Brianna_Drew_Assignment\Brianna_Drew_Assignment(3)\obj\Debug\Brianna_Drew_Assignment_3_.Form1.resources
+C:\Users\brian\Desktop\University\Past Courses\COIS 1520H\Assignment 3\Brianna_Drew_Assignment\Brianna_Drew_Assignment(3)\obj\Debug\Brianna_Drew_Assignment_3_.Resources.resources
+C:\Users\brian\Desktop\University\Past Courses\COIS 1520H\Assignment 3\Brianna_Drew_Assignment\Brianna_Drew_Assignment(3)\obj\Debug\Brianna_Drew_Assignment(3).vbproj.GenerateResource.Cache
+C:\Users\brian\Desktop\University\Past Courses\COIS 1520H\Assignment 3\Brianna_Drew_Assignment\Brianna_Drew_Assignment(3)\obj\Debug\Brianna_Drew_Assignment(3).vbproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\University\Past Courses\COIS 1520H\Assignment 3\Brianna_Drew_Assignment\Brianna_Drew_Assignment(3)\obj\Debug\Brianna_Drew_Assignment(3).exe
+C:\Users\brian\Desktop\University\Past Courses\COIS 1520H\Assignment 3\Brianna_Drew_Assignment\Brianna_Drew_Assignment(3)\obj\Debug\Brianna_Drew_Assignment(3).xml
+C:\Users\brian\Desktop\University\Past Courses\COIS 1520H\Assignment 3\Brianna_Drew_Assignment\Brianna_Drew_Assignment(3)\obj\Debug\Brianna_Drew_Assignment(3).pdb

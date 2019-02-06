@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Brianna_Drew_Assignment(3)
+</name>
+</assembly>
+<members>
+<member name="T:Brianna_Drew_Assignment_3_.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Brianna_Drew_Assignment_3_.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Brianna_Drew_Assignment_3_.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Brianna_Drew_Assignment_3_.My.Resources.Resources._95f81b33_e762_4bbd_847f_0245c54e59eb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brianna_Drew_Assignment_3_.My.Resources.Resources.ba336b54e44ba2554b3aa272960585fc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brianna_Drew_Assignment_3_.My.Resources.Resources.f5f0aa64_1e3c_4120_87fa_6efeee08ffc8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Brianna_Drew_Assignment_3_.My.Resources.Resources.records">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
